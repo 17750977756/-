@@ -1,0 +1,12 @@
+image {
+  width: 100%;
+}
+
+textarea {
+  width: calc(100% - 20px);
+  padding: 10px;
+}
+
+button {
+  border-radius: 0 !important;
+}

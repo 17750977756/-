@@ -1,0 +1,14 @@
+.addbutton {
+  position: fixed;
+  bottom: 2em;
+  right: 2em;
+  width: 138rpx;
+  height: 138rpx;
+  z-index: 100;
+}
+.addbutton .add-icon {
+  display: block;
+  margin: 0 auto;
+  width: 127rpx;
+  height: 127rpx;  
+}

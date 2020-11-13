@@ -1,0 +1,3 @@
+<image mode='widthFix' bindtap="previewImage" src="{{fileID}}"></image>
+<textarea placeholder="写下你的评论" bindinput="getcomments" value="{{comments}}"></textarea>
+<button type='primary' bindtap="saveComment">评论保存</button>
